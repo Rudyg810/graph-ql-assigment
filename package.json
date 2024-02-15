@@ -1,0 +1,15 @@
+{
+  "name": "graphql_apis",
+  "version": "1.0.0",
+  "description": "APIS creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudta",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.18.2"
+  }
+}
